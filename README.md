@@ -1,1 +1,1 @@
-# Loyal-Customer-Segmentation-R-F-M-Method
+# Loyal-Customer-Segmentation-RFM-Method
